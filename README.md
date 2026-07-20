@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:tyt16788@163.com"><img src="https://img.shields.io/badge/Email-tyt16788@163.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/tyt16788"><img src="https://img.shields.io/badge/GitHub-tyt16788-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/你的LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-汤迎涛-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://www.linkedin.com/in/你的LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-汤迎涛-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
 </p>
 
 ---
