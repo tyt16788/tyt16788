@@ -19,27 +19,6 @@ I'm a **Management Science & Engineering** master's student at Hangzhou Dianzi U
 - 💼 **实习经历**：北京国交信通科技发展有限公司 · 数据分析实习生
 - ⚡ **Fun fact**：GPA 4.15/5，专业排名前 5%
 ---
-### 🛠️ Tech Stack & Tools
-
-#### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-#### AI & ML
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=google&logoColor=white)
-![BERTopic](https://img.shields.io/badge/BERTopic-00599C?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Navicat](https://img.shields.io/badge/Navicat-109989?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
----
 ### 📂 Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -56,12 +35,6 @@ I'm a **Management Science & Engineering** master's student at Hangzhou Dianzi U
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tyt16788)](https://github.com/yourusername/github-readme-stats)
 ---
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="mailto:tyt16788@163.com"><img src="https://img.shields.io/badge/📧%20Email-tyt16788@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/tyt16788"><img src="https://img.shields.io/badge/🐙%20GitHub-tyt16788-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/你的LinkedIn用户名"><img src="https://img.shields.io/badge/🔗%20LinkedIn-汤迎涛-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 <p align="center">
   <i>"数据驱动决策，AI赋能未来。"</i>
 </p>
