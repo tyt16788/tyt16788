@@ -32,7 +32,7 @@ I'm a **Management Science & Engineering** master's student at Hangzhou Dianzi U
 2. 丁敬达, **汤迎涛**, 邱均平. 专利离群程度演变视角的高价值专利评估研究——以新能源汽车领域为例[J/OL]. **情报科学**, 1-12[2026-03-12]. **(CSSCI)**
 ---
 ### 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tyt16788)](https://github.com/yourusername/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tyt16788)](https://github.com/tyt16788/github-readme-stats)
 ---
 
 <p align="center">
