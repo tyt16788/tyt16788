@@ -31,8 +31,11 @@ I'm a **Management Science & Engineering** master's student at Hangzhou Dianzi U
 1. **汤迎涛**, 丁敬达, 邱均平. 数智时代科学计量与评价的创新发展研究——基于第十五届全国科学计量学与科教评价研讨会的分析[J]. **情报理论与实践**, 2025, 48(06): 56-60+77. **(CSSCI)**
 2. 丁敬达, **汤迎涛**, 邱均平. 专利离群程度演变视角的高价值专利评估研究——以新能源汽车领域为例[J/OL]. **情报科学**, 1-12[2026-03-12]. **(CSSCI)**
 ---
-### 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tyt16788)](https://github.com/tyt16788/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyt16788/tyt16788/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyt16788/tyt16788/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tyt16788/tyt16788/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 <p align="center">
