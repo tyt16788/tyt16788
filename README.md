@@ -1,6 +1,11 @@
 <!-- 头部横幅 -->
+
+
+
 <h1 align="center">👋 Hi there, I'm 汤迎涛 (Yingtao Tang)</h1>
-<h3 align="center">AI Product Assistant · Data Science Researcher · Management Science & Engineering @ HDU</h3>
+<h3 align="center">AI 产品助理 · 数据科学研究者 
+    杭州电子科技大学 管理科学与工程 硕士</h3>
+
 
 <p align="center">
   <a href="mailto:tyt16788@163.com"><img src="https://img.shields.io/badge/Email-tyt16788@163.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -10,27 +15,42 @@
 
 ---
 
-### 👨‍💻 About Me
-I'm a **Management Science & Engineering** master's student at Hangzhou Dianzi University, passionate about the intersection of **AI**, **data science**, and **product innovation**.
-- 🎯 **求职意向**：AI产品经理、数据分析师
+### 👨‍💻关于我
+杭州电子科技大学**管理科学与工程硕士研究生**，关注 **AI、数据科学与产品创新**的交叉方向。
+- 🎯 **求职意向**：AI产品经理、数据分析师、数据挖掘
+
 - 🎓 **教育背景**：杭州电子科技大学 管理科学与工程（硕士）· 嘉兴大学 信息管理与信息系统（本科）
+
 - 🔬 **研究方向**：技术机会识别、专利数据挖掘、自然语言处理
+
 - 📝 **学术成果**：发表 CSSCI 论文 2 篇（《情报理论与实践》《情报科学》）
-- 💼 **实习经历**：北京国交信通科技发展有限公司 · 数据分析实习生
-- ⚡ **Fun fact**：GPA 4.15/5，专业排名前 5%
+
 ---
-### 📂 Featured Projects
-| Project | Description | Tech Stack |
+### 💼 实习经历
+1. **北京国交信通科技发展有限公司** · 非标油综合治理监督模型 · 数据分析实习生（2026.04–2026.06）
+
+2.  **浙江省科技信息研究院** · 商业航天前瞻性报告 · 暑期实习生（2026.07–2026.09）
+
+---
+### 📂 开源项目
+| 项目 | 说明                                                         | 技术栈 |
 |---------|-------------|------------|
 | [**github_spider**](https://github.com/tyt16788/github_spider) | AI 相关 GitHub 仓库爬虫 · 基于 Search API + 智能时间切片，突破 1000 条结果上限 | Python · Pandas · Requests |
 | [**arXiv_spider**](https://github.com/tyt16788/arXiv_spider) | arXiv 论文批量爬取工具 · 按提交日期过滤 + 按月分段，突破单次 1 万条限制 | Python · arXiv.py · BeautifulSoup |
 | [**DA_Internship**](https://github.com/tyt16788/DA_Internship) | 非标油综合治理监督模型 · 处理百万级车辆运单数据 · 坐标匹配准确率由 45% 提升至 91% | Python · Pandas · Regex |
-
+| **[cnki-metadata-exporter](https://github.com/tyt16788/cnki-metadata-exporter)** | 知网元数据批量导出工具（fork 自 [JYao-Chen]([JYao-Chen/cnki-metadata-exporter: Reusable Playwright workflow for exporting, merging, and deduplicating CNKI metadata](https://github.com/JYao-Chen/cnki-metadata-exporter)) 并增强）· 新增按发表时间范围限定、结果超 6k 自动拆分时间段续爬、多次失败后跳过集合，可断点续跑 |Python · Playwright · Pandas|
 ---
-### 📄 Publications
+### 📄 学术成果
 1. **汤迎涛**, 丁敬达, 邱均平. 数智时代科学计量与评价的创新发展研究——基于第十五届全国科学计量学与科教评价研讨会的分析[J]. **情报理论与实践**, 2025, 48(06): 56-60+77. **(CSSCI)**
 2. 丁敬达, **汤迎涛**, 邱均平. 专利离群程度演变视角的高价值专利评估研究——以新能源汽车领域为例[J/OL]. **情报科学**, 1-12[2026-03-12]. **(CSSCI)**
 ---
+  ## 🚀 项目经历
+**融合动态主题与深度语义的技术机会识别** ｜ 科研助理（2024.09–2026.03） 
+
+构建基于多源异构数据（专利 / 论文 / GitHub / 产业 / 政策）的颠覆性技术早期识别框架：以 Python（Pandas / Selenium / API）爬取 CNKI、WoS、arXiv、GitHub 等数据，Docker 部署 RSSHub 追踪产业与政策信息；基于 BERTopic 做跨源主题识别，结合 XGBoost 与 SHAP 完成预测建模与模型解释。
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyt16788/tyt16788/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyt16788/tyt16788/output/github-contribution-grid-snake.svg">
