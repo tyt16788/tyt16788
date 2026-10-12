@@ -38,7 +38,7 @@
 | [**github_spider**](https://github.com/tyt16788/github_spider) | AI 相关 GitHub 仓库爬虫 · 基于 Search API + 智能时间切片，突破 1000 条结果上限 | Python · Pandas · Requests |
 | [**arXiv_spider**](https://github.com/tyt16788/arXiv_spider) | arXiv 论文批量爬取工具 · 按提交日期过滤 + 按月分段，突破单次 1 万条限制 | Python · arXiv.py · BeautifulSoup |
 | [**DA_Internship**](https://github.com/tyt16788/DA_Internship) | 非标油综合治理监督模型 · 处理百万级车辆运单数据 · 坐标匹配准确率由 45% 提升至 91% | Python · Pandas · Regex |
-| **[cnki-metadata-exporter](https://github.com/tyt16788/cnki-metadata-exporter)** | 知网元数据批量导出工具（fork 自 [JYao-Chen]([JYao-Chen/cnki-metadata-exporter: Reusable Playwright workflow for exporting, merging, and deduplicating CNKI metadata](https://github.com/JYao-Chen/cnki-metadata-exporter)) 并增强）· 新增按发表时间范围限定、结果超 6k 自动拆分时间段续爬、多次失败后跳过集合，可断点续跑 |Python · Playwright · Pandas|
+| **[cnki-metadata-exporter](https://github.com/tyt16788/cnki-metadata-exporter)** | 知网元数据批量导出工具（fork 自 JYao-Chen 并增强）· 新增按发表时间范围限定、结果超 6k 自动拆分时间段续爬、多次失败后跳过集合，可断点续跑 |Python · Playwright · Pandas|
 ---
 ### 📄 学术成果
 1. **汤迎涛**, 丁敬达, 邱均平. 数智时代科学计量与评价的创新发展研究——基于第十五届全国科学计量学与科教评价研讨会的分析[J]. **情报理论与实践**, 2025, 48(06): 56-60+77. **(CSSCI)**
