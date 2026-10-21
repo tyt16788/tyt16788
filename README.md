@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">👋 Hi there, I'm 汤迎涛 (Yingtao Tang)</h1>
+<h1 align="center">👋 Hi there, I'm Yingtao Tang</h1>
 <h3 align="center">AI 产品助理 · 数据科学研究者 
     杭州电子科技大学 管理科学与工程 硕士</h3>
 
